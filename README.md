@@ -53,4 +53,4 @@ Custom simulation development for your organization
 
 - Academic collaboration
 
-I am available to collaborate on projects. You can support further work by donating via PayPal at [adamsmuema19@gmail.com](https://www.paypal.com/donate/?hosted_button_id=UW2NDM92AU67U) or reaching out directly on WhatsApp at [+254702896107](https://wa.me/254702896107). Your support enables more realistic simulations and broader open cybersecurity education. Thank you! 🫶
+I am available to collaborate on projects. You can support further work by donating via PayPal at [adamsmuema19@gmail.com](https://www.paypal.com/donate/?hosted_button_id=UW2NDM92AU67U) or reaching out directly on WhatsApp at [+254702896107](https://wa.me/254702896107). Your support enables more realistic simulations and broader open education. Thank you! 🫶
