@@ -36,21 +36,19 @@ pip install -r requirements.txt
 
 # 3. Launch the application
 streamlit run app.py
+```
 
 ## ⚠️ Disclaimer
 This repository is intended solely for educational, research, and training purposes.
 
 ## ❤️ Support My Work & Let's Collaborate!
-
-- If this simulation enhanced your understanding of healthcare operations, inspired your research, or you're interested in:
-
+If this simulation enhanced your understanding of healthcare operations, inspired your research, or you're interested in:
 Custom simulation development for your organization
 
-Healthcare operations consulting
+- Healthcare operations consulting
 
-Data science training and workshops
+- Data science training and workshops
 
-Academic collaboration
+- Academic collaboration
 
-I am available to collaborate on projects.
-. You can support further work by donating via PayPal at [adamsmuema19@gmail.com](https://www.paypal.com/donate/?hosted_button_id=UW2NDM92AU67U) or reaching out directly on WhatsApp at [+254702896107](https://wa.me/254702896107). Your support enables more realistic simulations and broader open cybersecurity education. Thank you! 🫶
+I am available to collaborate on projects. You can support further work by donating via PayPal at [adamsmuema19@gmail.com](https://www.paypal.com/donate/?hosted_button_id=UW2NDM92AU67U) or reaching out directly on WhatsApp at [+254702896107](https://wa.me/254702896107). Your support enables more realistic simulations and broader open cybersecurity education. Thank you! 🫶
