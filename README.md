@@ -4,12 +4,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SimPy](https://img.shields.io/badge/SimPy-8A2BE2?style=for-the-badge)
 
-**Team:** John Doe  
 **Date:** 07 Nov 2025  
-**Live Demo:** [Launch App](https://your-app.streamlit.app)
 
 ## 📋 Overview
 A discrete-event simulation tool for hospital Emergency Room staffing optimization. Model patient flow, analyze doctor utilization, and test various staffing scenarios under realistic conditions including absenteeism.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/132f7fdd-7141-4674-ba1f-6dd4aa5ddc0d" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/408916c9-eded-4f0b-a85c-dfc3fac544c9" />
 
 ### 🔥 Key Features
 - **Multi-scenario Simulation**: Test different doctor counts in parallel
